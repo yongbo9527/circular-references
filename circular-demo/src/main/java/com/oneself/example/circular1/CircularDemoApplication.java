@@ -1,4 +1,4 @@
-package com.oneself.example.circular;
+package com.oneself.example.circular1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

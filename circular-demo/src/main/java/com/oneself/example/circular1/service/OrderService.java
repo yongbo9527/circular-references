@@ -1,4 +1,4 @@
-package com.oneself.example.circular.service;
+package com.oneself.example.circular1.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

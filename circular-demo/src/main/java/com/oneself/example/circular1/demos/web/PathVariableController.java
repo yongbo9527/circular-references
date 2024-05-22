@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.oneself.example.circular.demos.web;
+package com.oneself.example.circular1.demos.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

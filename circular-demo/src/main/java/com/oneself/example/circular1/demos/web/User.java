@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.oneself.example.circular.demos.web;
+package com.oneself.example.circular1.demos.web;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
